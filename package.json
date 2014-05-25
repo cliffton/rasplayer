@@ -1,0 +1,19 @@
+{
+  "name": "rasplayer",
+  "version": "1.0.1",
+  "description": "Android App operated RaspberryPi Music player connected over LAN.",
+  "main": "index.js",
+  "bin": {
+    "rasplayer": "rasplayer.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "android",
+    "party"
+  ],
+  "author": "cliffton",
+  "license": "MIT"
+}
